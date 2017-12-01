@@ -1,0 +1,25 @@
+{
+  "name": "load-graphql-schema",
+  "version": "0.0.1",
+  "description": "Helper to load .grpahql schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablolmiranda/load-graph-schema.git"
+  },
+  "keywords": [
+    "graphql",
+    "schema",
+    "load-schema",
+    "load-graphl-schema"
+  ],
+  "author": "Pablo Lacerda de Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablolmiranda/load-graph-schema/issues"
+  },
+  "homepage": "https://github.com/pablolmiranda/load-graph-schema#readme"
+}
